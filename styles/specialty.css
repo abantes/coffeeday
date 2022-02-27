@@ -1,0 +1,30 @@
+.specialty-button {
+  margin-left: 1.25rem;
+}
+
+.specialty-category {
+  margin-top: 4rem;
+  display: grid;
+  grid-template-columns: 200px;
+  justify-content: center;
+  row-gap: 2.5rem;
+}
+
+.specialty-img {
+  width: 60px;
+  margin-bottom: 1rem;
+  transition: .4s;
+}
+
+.specialty-group {
+  text-align: center;
+}
+
+.specialty-title {
+  font-size: var(--h2-font-size);
+  margin-bottom: .25rem;
+}
+
+.specialty-group:hover .specialty-img {
+  transform: translateY(-.25rem);
+}
