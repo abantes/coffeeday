@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="badge" src="https://img.shields.io/badge/author-RogerLuiz-3F2010?style=flat-square">
-  <img alt="badge" src="https://img.shields.io/github/stars/abantes/coffee-website?color=3F2010&style=flat-square">
+  <img alt="badge" src="https://img.shields.io/github/stars/abantes/coffeeday?color=3F2010&style=flat-square">
   <img alt="badge" src="https://img.shields.io/badge/license-MIT-3F2010?style=flat-square">
   <img alt="badge" src="https://img.shields.io/badge/version-1.0.0-3F2010?style=flat-square">
   <img alt="badge" src="https://img.shields.io/github/contributors/abantes/coffeeday?color=3F2010&style=flat-square">
