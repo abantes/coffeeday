@@ -7,7 +7,7 @@
   <img alt="badge" src="https://img.shields.io/github/stars/abantes/coffee-website?color=3F2010&style=flat-square">
   <img alt="badge" src="https://img.shields.io/badge/license-MIT-3F2010?style=flat-square">
   <img alt="badge" src="https://img.shields.io/badge/version-1.0.0-3F2010?style=flat-square">
-  <img alt="badge" src="https://img.shields.io/github/contributors/abantes/coffee-website?color=3F2010&style=flat-square">
+  <img alt="badge" src="https://img.shields.io/github/contributors/abantes/coffeeday?color=3F2010&style=flat-square">
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## About this projetc:
 
-You can view the layout of this project by clicking [here](https://abantes.github.io/coffee-website/).
+You can view the layout of this project by clicking [here](https://abantes.github.io/coffeeday/).
 
 * Responsive Coffee Website Using HTML CSS & JavaScript
 * Smooth scrolling in each section.
@@ -40,7 +40,7 @@ Contributions are always welcome, no matter how large or small.
 
 After the merge of your pull request is done, you can delete your branch.
 
-You can report a bug [here](https://github.com/abantes/coffee-website/issues).
+You can report a bug [here](https://github.com/abantes/coffeeday/issues).
 
 ## License
 
