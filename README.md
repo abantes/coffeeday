@@ -14,9 +14,9 @@
   <img src=".github/preview.png" alt="Exemplo da interface no desktop" style="width: 100%;">  
 </div>
 
-## About this projetc:
+## About this projetc
 
-You can view the layout of this project by clicking [here](https://abantes.github.io/coffeeday/).
+☕ This project is an idea created to be an e-commerce of coffees, cakes and sweets, with a focus on in the user experience. You can view the layout of this project by clicking [here](https://abantes.github.io/coffeeday/).
 
 * Responsive Coffee Website Using HTML CSS & JavaScript
 * Smooth scrolling in each section.
@@ -27,7 +27,7 @@ You can view the layout of this project by clicking [here](https://abantes.githu
 
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br>Safari |
 | --- | --- | --- | --- |
-| IE11, Edge | last 5 versions | last 5 versions | last 5 versions |
+| IE11, Edge | last 2 versions | last 1 versions | last 1 versions |
 
 ## How to contribute
 
@@ -40,7 +40,7 @@ Contributions are always welcome, no matter how large or small.
 
 After the merge of your pull request is done, you can delete your branch.
 
-You can report a bug [here](https://github.com/abantes/coffeeday/issues).
+Feel free to **file a new issue** with a respective title and description on the the [Coffeeday](https://github.com/abantes/coffeeday/issues) repository. If you already found a solution to your problem, i would love to review your pull request!
 
 ## License
 
